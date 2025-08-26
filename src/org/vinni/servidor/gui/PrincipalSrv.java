@@ -97,7 +97,7 @@ public class PrincipalSrv extends JFrame {
                     mensajesTxt.append("Escuchando ...\n ");
                     dp = new DatagramPacket(buf, buf.length);
                     socketudp.receive(dp);
-                    String elmensaje = new String(dp.getData());
+                    String elmensaje = new String(dp.getData(), 0, dp.getLength());
                     File f = new File("c:\\acasertvidor\\", "elarchivo.*");
                     mensajesTxt.append("El mensaje recibido es " +
                             elmensaje+"\n");

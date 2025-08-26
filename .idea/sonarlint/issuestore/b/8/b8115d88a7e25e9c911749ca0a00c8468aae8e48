@@ -1,0 +1,23 @@
+
+k
+java:S1604,"(Make this anonymous inner class a lambda(×‚ôï8µ’ ¿3J$298f97e7-1e42-46ef-a5e2-c9e7a2da5d6e
+p
+java:S1604K"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ8¶’ ¿3J$a3c60646-e59b-44d5-8121-47777418e4bf
+‘	java:S116"ORename this field "PORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©†£Ú8É’ ¿3J$d38b9090-3bff-4bac-a91a-fc6bb3592548
+d
+java:S1170"!Make this final field static too.(©†£Ú8Ï’ ¿3J$02262486-5bfd-4797-9852-3b09cf7e0689
+
+java:S1450}"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(Ó“©©ıÿÿÿÿ8Ñ’ ¿3J$c5615a42-fbe4-441a-ba75-d9bb4a3bcb1a
+£
+java:S1450"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(ê¼¿Çıÿÿÿÿ8Ñ’ ¿3J$a8800768-b5ea-4a2a-bfce-d1e0b20cef82
+r
+java:S1197I"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8â’ ¿3J$13765787-3f79-479a-a6e5-d5514e1eadb1
+r
+java:S1172R"*Remove this unused method parameter "evt".(ï¥Áıÿÿÿÿ8ç’ ¿3J$a7d96c6f-4571-4350-ad90-1163b0d21f6b
+ˆ
+java:S2147u"ECombine this catch with the one at line 115, which has the same body.(Ãôş•8í’ ¿3J$d2d180ea-0700-4eb4-847f-0522430dee45
+‰
+java:S1075e"ARefactor your code to get this URI from a customizable parameter.(ÁåÚüÿÿÿÿ8ô’ ¿3J$ea56dc56-8ba4-452c-8871-48a7006fc18f
+n
+java:S1481e"&Remove this unused "f" local variable.(ÁåÚüÿÿÿÿ8õ’ ¿3J$7452639f-fe5f-4648-9e75-4e1e22b790c6
+ƒ	java:S125l"<This block of commented-out lines of code should be removed.(’¤‚ğúÿÿÿÿ8÷’ ¿3J$cc5a653f-e872-4889-90ce-85716b8ef77f

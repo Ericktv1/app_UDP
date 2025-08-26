@@ -1,0 +1,30 @@
+
+‹
+java:S1192A"HDefine a constant instead of duplicating this literal "Verdana" 3 times.(Çé³È8ª«–¿3J$6a3dbf12-1f38-4e1f-8dcc-a22503123208
+k
+java:S1604L"(Make this anonymous inner class a lambda(‡™ˆ8««–¿3J$81a54007-51f2-46c3-bf73-15d6b34cd5f2
+p
+java:S1604d"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ8««–¿3J$ddc2d739-ec22-4614-8a2c-911a118109ed
+
+java:S2095€"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(““˜8¿«–¿3J$70d67f10-c737-4da6-9ff3-04a41b4f1f5b
+‘	java:S116"ORename this field "PORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©†£Ú8À«–¿3J$00fc7824-88f9-418d-9aa5-fcb54de88d25
+d
+java:S1170"!Make this final field static too.(©†£Ú8Ä«–¿3J$6fcff525-0676-45b0-af4e-5af85bfcc8f4
+
+java:S1450n"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(Ó“©©ıÿÿÿÿ8Æ«–¿3J$783de8cb-17b7-4acb-9298-3f3f04924342
+™
+java:S1450o"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(¹ñÌ8Æ«–¿3J$0499a87b-898d-478f-936f-a35fc5e72f9c
+£
+java:S1450p"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(ê¼¿Çıÿÿÿÿ8Æ«–¿3J$dbe05fb5-dc82-4997-86bd-a1b7e239cc9e
+r
+java:S1172X"*Remove this unused method parameter "evt".(Ò‡Ñûÿÿÿÿ8Õ«–¿3J$24f76993-d000-4123-9bca-76bb664007cf
+r
+java:S1197b"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8×«–¿3J$8fd86488-b612-47a4-931b-5487031ff98a
+}
+java:S1854~"5Remove this useless assignment to local variable "f".(µÜõëÿÿÿÿÿ8Û«–¿3J$8c5bd69b-6c6d-4746-937a-8d21aaca58e8
+‰
+java:S1075~"ARefactor your code to get this URI from a customizable parameter.(µÜõëÿÿÿÿÿ8Ş«–¿3J$cf54519d-9e99-4f81-ad64-97f100676432
+n
+java:S1481~"&Remove this unused "f" local variable.(µÜõëÿÿÿÿÿ8ß«–¿3J$aa80bbae-36a4-4ddb-842f-3ded2a388aa9
+‰
+java:S2147"ECombine this catch with the one at line 140, which has the same body.(Ãôş•8ß«–¿3J$301e518e-6b18-43f3-aec8-4f756652b96d

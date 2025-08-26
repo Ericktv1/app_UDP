@@ -128,6 +128,13 @@ public class PrincipalCli extends JFrame {
             DatagramSocket canal = new DatagramSocket();
             canal.send(mensajeDG);
             mensajesTxt.append("Mensaje enviado \n");
+            byte[] buffer = new byte[1024];
+            DatagramPacket respuesta = new DatagramPacket(buffer, buffer.length);
+            canal.receive(respuesta);  // Bloquea hasta recibir algo
+            String msgServidor = new String(respuesta.getData(), 0, respuesta.getLength());
+            mensajesTxt.append("Servidor: " + msgServidor + "\n");
+
+            canal.close();
 
 
         } catch (SocketException ex) {
