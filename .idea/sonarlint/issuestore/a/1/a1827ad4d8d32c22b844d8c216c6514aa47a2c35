@@ -1,26 +1,26 @@
 
-‹
-java:S1192H"HDefine a constant instead of duplicating this literal "Verdana" 4 times.(¦³Éæ8Îû¬Œ3J$7cf26a31-e26e-403d-93a0-a33bfec1c107
-’
-java:S1192h"JDefine a constant instead of duplicating this literal "127.0.0.1" 3 times.(êİÁøşÿÿÿÿ8Ïû¬Œ3J$6919cc1f-616a-477e-9040-381b90e4f4d9
-’
-java:S2095Ã"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¿âµÊ8ìÂŒ3J$aa2ef41a-419b-4fe0-b47e-e96ae99960bd
-k
-java:S2189µ""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ìÂŒ3J$baa8ceb4-0255-4758-bb06-536c4f92f680
-‘	java:S116"ORename this field "PORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©†£Ú8ôû¬Œ3J$b7f654dd-b87a-41b2-97db-c4172b3b32f6
+e
+java:S1192H"HDefine a constant instead of duplicating this literal "Verdana" 4 times.(¦³Éæ8°­ÎŒ3
+l
+java:S1192h"JDefine a constant instead of duplicating this literal "127.0.0.1" 3 times.(êİÁøşÿÿÿÿ8±­ÎŒ3
+l
+java:S2095Ã"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¿âµÊ8¢¯ÎŒ3
+E
+java:S2189µ""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8£¯ÎŒ3
+‘	java:S116"ORename this field "PORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©†£Ú8ôû¬Œ3J$2a71a144-234a-4fbc-aa39-4f992465dee6
 d
-java:S1170"!Make this final field static too.(©†£Ú8öû¬Œ3J$1dd54650-78b4-4adc-8005-4300504ac01b
-¦
-java:S1450"^Remove the "btEnviarArchivo" field and declare it as a local variable in the relevant methods.(›Éú¡úÿÿÿÿ8øû¬Œ3J$3cd47fd5-baaf-46c0-85c7-2497582a7254
-
-java:S1450"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(Ó“©©ıÿÿÿÿ8øû¬Œ3J$009f6b39-5e25-4abd-b063-b3c68ec14ca8
-™
-java:S1450"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(¹ñÌ8øû¬Œ3J$55de6948-9bc9-43dd-b32b-ee130ddb261b
-£
-java:S1450"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(ê¼¿Çıÿÿÿÿ8ùû¬Œ3J$f59c9df7-ce5f-425e-ae7d-4d7b1e979b0c
-j
-java:S1948"(Make "socket" transient or serializable.(¨¹Í"8úû¬Œ3J$ba2ef734-562a-4b3d-8f55-2efab6870f2b
-–
-java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÃŠ¨‹8±ğ¹Œ3J$aeb03523-90c8-4c07-90ce-44d5816740ec
+java:S1170"!Make this final field static too.(©†£Ú8öû¬Œ3J$1d28a2af-ab82-4a59-8ee3-9a726e4ab95c
+€
+java:S1450"^Remove the "btEnviarArchivo" field and declare it as a local variable in the relevant methods.(›Éú¡úÿÿÿÿ8±¯ÎŒ3
+x
+java:S1450"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(Ó“©©ıÿÿÿÿ8²¯ÎŒ3
 s
-java:S1197ì"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8™ü¬Œ3J$1b356b2b-61ee-466d-bdad-08531bd1cb89
+java:S1450"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(¹ñÌ8³¯ÎŒ3
+}
+java:S1450"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(ê¼¿Çıÿÿÿÿ8³¯ÎŒ3
+D
+java:S1948"(Make "socket" transient or serializable.(¨¹Í"8¶¯ÎŒ3
+p
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÃŠ¨‹8Ñ¯ÎŒ3
+M
+java:S1197ì"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8İ¯ÎŒ3
